@@ -1,7 +1,7 @@
 # Define the starting and ending numbers
-start = 310110409101
-end = 310110409250
-suffix = ',V2'
+start = 709301094984
+end = 709301095003
+suffix = ','
 
 # Generate the list
 numbers_with_suffix = [f"{i}{suffix}" for i in range(start, end + 1)]
