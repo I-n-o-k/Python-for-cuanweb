@@ -1,7 +1,13 @@
 # Define the starting number and the number of rows for each suffix
-start = 310130761251
+start = 310130761401
 suffixes = [
-    (',V1P5GB1D', 150),
+    (',VMINI1', 15),
+    (',VBM3X', 15),
+    (',V7GB30D', 6),
+    (',VPM4', 9),
+    (',VAON1', 6),
+    (',VAON2', 6),
+    (',VAON6GB', 9),
 ]
 
 # Initialize a list to store the results
