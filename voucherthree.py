@@ -1,7 +1,7 @@
 # Define the starting number and the number of rows for each suffix
-start = 310319872151
+start = 300348996662
 suffixes = [
-    (',tsel', 200),
+    (',tsel', 150),
 ]
 
 # Initialize a list to store the results
